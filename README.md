@@ -49,7 +49,7 @@ Obs.: Todos os dados são fícticios
 </pre>
 
 ### Projeto hospedado no Streamlit
-Confira clicando aqui o projeto em funcionamento real: xxxx
+Confira clicando aqui o projeto em funcionamento real: https://uberdashboard-thiagorodrigues.streamlit.app/
 
 ### Desenvolvimento
 Esse projeto está em constante desenvolvimento e atualizações. Tenho muitas ideias para colocar em prática, então fique atento para mais novidades!
