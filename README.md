@@ -49,4 +49,8 @@ Obs.: Todos os dados são fícticios
 
 ### Projeto hospedado no Streamlit
 Confira clicando aqui o projeto em funcionamento real: xxxx
+
+### Desenvolvimento
+Esse projeto está em constante desenvolvimento e atualizações. Tenho muitas ideias para colocar em prática, então fique atento para mais novidades!
+Desenvolvido por: https://thiagorodrigues1.com.br/
 <br>
