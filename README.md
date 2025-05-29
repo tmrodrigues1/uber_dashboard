@@ -1,5 +1,6 @@
 # Painel de Desempenho
-Este projeto tem como objetivo gerar um relatório interativo baseado nas corridas realizadas. Através de análises detalhadas, simulações e estimativas, o relatório oferece insights para apoiar na definição de estratégias.
+Este dashboard analisa o histórico de corridas de um motorista por aplicativo, transformando dados em informações estratégicas. Com análises detalhadas, ele revela padrões de desempenho, horários mais lucrativos, além de análise mais avançadas (estatísticas), auxiliando na otimização de ganhos e tomadas de decisão inteligentes. Simples, direto e eficaz.
+
 <ul>
   <li>Análises mais detalhadas dos dados.</li>
   <li>Simulações e estimativas.</li>
